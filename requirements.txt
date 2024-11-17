@@ -1,0 +1,7 @@
+pillow
+pyfirmata
+pyclean
+numpy
+opencv-python
+jupyter
+onnxruntime
