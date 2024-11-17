@@ -1,5 +1,5 @@
 # Mã nguồn thiết kế hệ thống Pantilt theo dõi khuôn mặt 
-![moHinh](./Other/base.png)
+![moHinh](./other/base.png)
 
 ### Nội dung
 1. Sử dụng thuật toán Haar Cascade
